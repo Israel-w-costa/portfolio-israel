@@ -1,0 +1,36 @@
+.footer{
+    background-color:#1b1935;
+    height: 23vh;
+}
+
+.footer__Container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.arrow{
+    height: 15vh;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.footer__Container ul {
+    display: flex;
+    margin-right: 5%;
+    gap: 15%;
+    margin-top: 3%;
+}
+
+.footer__Container ul li {
+    list-style-type: none;
+}
+
+.footer__Container ul li a img {
+    width: 5vh;
+    list-style-type: none;
+}
+
+.footer p {
+    text-align: center;
+    color: #ffff;
+}

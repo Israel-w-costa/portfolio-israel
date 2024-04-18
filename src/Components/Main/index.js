@@ -15,7 +15,10 @@ export default function Main() {
                     Atualmente meu objetivo é ter o domínio no Framework React interagindo com a
                     linguagem JS. Ainda mais busco minha primeira oportunidade no mercado de TI.
                 </p>
-                <a className="main_text-a">Entrar em contato </a>
+                <a 
+                href="https://wa.me/5591981028327?text=opa%2C+visitei+seu+site+do+seu+portfolio%2C+tudo+bem%3F"
+                className="main_text-a">
+                    Entrar em contato </a>
             </div>
 
             <div className="main_sectionTwo">
@@ -24,7 +27,10 @@ export default function Main() {
                     alt="Imagem de perfil do Israel "
                 ></img>
                 <div className="main_link">
-                    <a className="main_link-a">Entrar em contato </a>
+                    <a  
+                    href="https://wa.me/5591981028327?text=opa%2C+visitei+seu+site+do+seu+portfolio%2C+tudo+bem%3F"
+                    className="main_link-a"
+                    >Entrar em contato </a>
                 </div>
             </div>
         </div>
