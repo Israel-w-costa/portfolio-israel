@@ -6,7 +6,7 @@ export default function Main() {
         <div className="main">
             <div className="main_text">
                 <h1>
-                    Programador Júnior
+                    Programador React
 
                 </h1>
                 <p>
