@@ -34,3 +34,43 @@
     text-align: center;
     color: #ffff;
 }
+
+
+@media  (max-width: 576px){
+    .arrow{
+        display: none;
+    }
+
+        .footer__Container ul  {
+        margin-left: 10%;
+        gap: 60%;
+        margin-bottom: 14%;
+        margin-top: 10%;
+        }
+
+        .footer{
+            height: 20vh;
+        }
+}
+
+@media (min-width:576px) and (max-width:1024px) {
+    .footer{
+        height: 60vh;
+    }
+
+    .arrow {
+        height: 10vh;
+        margin-top: 5%;
+    }
+
+    .footer__Container ul {
+        margin-top: 10%;
+        margin-right:10% ;
+    }
+
+    .footer p {
+        margin-top:14% ;
+    }
+
+    
+}
