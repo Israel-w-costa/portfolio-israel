@@ -42,18 +42,20 @@
     }
 
         .footer__Container ul  {
-        margin-left: 10%;
-        gap: 60%;
+        gap: 6em;
         margin-bottom: 14%;
         margin-top: 10%;
+        margin-left: 4%;
+        justify-content: center;
+        width: 75vw;
         }
 
         .footer{
-            height: 20vh;
+            height: 27.5vh;
         }
 }
 
-@media (min-width:576px) and (max-width:1024px) {
+@media (min-width:577px) and (max-width:1024px) {
     .footer{
         height: 60vh;
     }
